@@ -12,6 +12,9 @@ http://www.ofertas123.cl/
 http://www.movistar.cl/web/movistar/tienda/internet-fijo/banda-ancha-hogar/plan-banda-ancha-hogar-m/www.tuconsumomovistar.cl
 https://www.previred.com/
 
+
+Tutorial de como importar en chile: https://www.youtube.com/watch?v=lUNfo5xP4wY
+
 SCRUM
 -------------------
 
