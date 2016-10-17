@@ -1,5 +1,7 @@
-Mazos Kaladesh
+Kaladesh's Desks
 ====
+* Energy Cards List [energía][5]
+
 
 [1]: http://legitmtg.com/competitive/kaladesh-limited-charging-rhinos-and-charging-rhinos-with-energy/
 [2]: https://www.reddit.com/r/magicduels/comments/54yhux/rough_draft_simic_energyartifact_deck_to_bring_in/
