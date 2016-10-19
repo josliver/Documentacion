@@ -39,6 +39,8 @@ y la opción -m nos permite colocar el mensaje del commit (siempre hacer esto co
 * **Git reset HEAD~1**
 (local) Revierte los cambios realizados en todo el proyecto previo al commit
 * **Git branch –d {rama} ***
+Elimina una rama en particular
 * **Git push –u {nombre_conexion} {rama}**
+Enviar todos los cambios al servidor remoto
 
 
