@@ -34,6 +34,8 @@ y la opción -m nos permite colocar el mensaje del commit (siempre hacer esto co
 (Local) Envia nuestros archivos del stage al manejador de versiones, la opción -m nos permite colocar el mensaje del commit (siempre hacer esto como buena práctica)
 * **Git commit**
 (Local) Envia nuestros archivos del stage al manejador de versiones, si opciones nos abre un editor tipo vim para agregar el mensaje del commit
+* **Git commit --ammend**
+(Local) Agrega archivos del stage al commit inmediato anterior, por si se nos olvidó agregar archivos y no queremos tener un nuevo commit en la historia
 * **Git reset HEAD { nombre_archivo }**
 (local) Revierte los cambios realizados en un archivo previo al commit
 * **Git reset HEAD~1**

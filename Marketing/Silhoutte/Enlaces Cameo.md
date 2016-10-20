@@ -13,6 +13,10 @@
 * [Calendario personalizado](https://www.youtube.com/watch?v=enEb5wsVKsA)
 * [Ideas para la boda](https://www.youtube.com/user/Anrilla/videos)
 
+20161020
+* [Publicidad](https://www.youtube.com/watch?v=j0O0bRijnYo)
+* [Canal Youtube](https://www.youtube.com/user/KikumsTinyCreations/videos)
+
 [1]: https://www.youtube.com/user/MiTiendadeArtes
 [2]: https://www.youtube.com/watch?v=Aav4BOJHcKM
 [3]: https://www.youtube.com/watch?v=aG_-Cv7PWCs
