@@ -43,6 +43,10 @@ http://www.metodologiasoftware.com/?p=231
 
 http://www.lecciones-aprendidas.info/2016/09/como-leer-la-serie-comenzando-con-un.html
 
+GOOFIES
+--------
+https://m.reddit.com/r/YouTubetitties
+
 
 MVC
 -------------------

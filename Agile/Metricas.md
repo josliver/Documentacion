@@ -16,6 +16,7 @@ How do we measure projects
 * [Good Way for a Kanban Board](https://proyectosagiles.org/2010/09/26/ejemplo-tablero-pizarra-tareas-scrum-taskboard/)
 * [Youtube contratos](https://www.youtube.com/watch?v=oAyIJReSAJo&list=PLhE6PVDdZ3dLSS42FLcwYLcH3pldS71MT)
 * [Otros indices](http://www.elproximopaso.net/2013/08/3-otros-indicadores-de-scrum.html)
+*
 
 http://verheulconsultants.nl/MoneyforNothingAgile2008.pdf
 
