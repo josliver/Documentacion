@@ -1,8 +1,10 @@
-Those links are for page with GIT info
+Those links are for pages with GIT info
 ====
 
 * [Tutorial Interactivo de branching avanzado][3]
 * [DEVOPS en Acción][6]
+* [Buenas Practicas](https://codigofacilito.com/articulos/buenas-practicas-en-commits-de-git)
+* [forking](https://guides.github.com/activities/forking/)
 
 [1]: http://www.davidam.com/docu/crear-repositorio-git-servidor.html
 [2]: http://rogerdudler.github.io/git-guide/index.es.html
