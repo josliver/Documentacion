@@ -1,6 +1,7 @@
 #Intro Songs
 
 thinking out loud
+stay
 
 #Danceables
 
@@ -30,6 +31,11 @@ Yeah!! usher
 Dont stop the music
 stereo love
 one more time
+
+Macarena
+Mayonesa
+la pera
+asereje
 
 
 

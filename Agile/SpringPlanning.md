@@ -1,0 +1,2 @@
+https://www.scrumalliance.org/community/articles/2016/november/how-to-achieve-effective-sprint-planning?feed=articles
+http://lmsgoncalves.com/2016/11/22/how-to-have-an-effective-sprint-planning-meeting/
