@@ -1,0 +1,1 @@
+Elixir, barril, bruja, golem, bola de fuego, lancer, mini peka, brujo

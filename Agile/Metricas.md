@@ -17,6 +17,7 @@ How do we measure projects
 * [Youtube contratos](https://www.youtube.com/watch?v=oAyIJReSAJo&list=PLhE6PVDdZ3dLSS42FLcwYLcH3pldS71MT)
 * [Otros indices](http://www.elproximopaso.net/2013/08/3-otros-indicadores-de-scrum.html)
 * [Agile: A Quality Metric Tool](https://www.scrumalliance.org/community/articles/2016/november/agile-a-quality-metric-tool?feed=articles)
+* [30 metricas](https://www.frontrowagile.com/blog/posts/69-30-metrics-for-agile-software-development-teams)
 
 http://verheulconsultants.nl/MoneyforNothingAgile2008.pdf
 
