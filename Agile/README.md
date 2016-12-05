@@ -9,6 +9,8 @@ Prueba de commit
 * [Rol de lo Gerentes en la adopción Ágil](https://www.scrumalliance.org/community/articles/2016/november/role-of-a-manager-in-organizational-adoption-of-ag?feed=articles)
 * [BLOG](https://www.frontrowagile.com/)
 * [Cómo leer la serie: Comenzando con un equipo Scrum](http://www.lecciones-aprendidas.info/2016/09/como-leer-la-serie-comenzando-con-un.html)
+* [Scrum intro](https://www.scrumalliance.org/community/articles/2016/december/scrum-in-common-language?feed=articles)
+
 
 
 [1]:http://www.alexandercowan.com/best-agile-user-story/
