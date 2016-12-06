@@ -18,6 +18,8 @@ How do we measure projects
 * [Otros indices](http://www.elproximopaso.net/2013/08/3-otros-indicadores-de-scrum.html)
 * [Agile: A Quality Metric Tool](https://www.scrumalliance.org/community/articles/2016/november/agile-a-quality-metric-tool?feed=articles)
 * [30 metricas](https://www.frontrowagile.com/blog/posts/69-30-metrics-for-agile-software-development-teams)
+* [Midiendo la implementación de Scrum](https://www.scrumalliance.org/community/articles/2016/december/measuring-scrum-implementation?feed=articles)
+
 
 http://verheulconsultants.nl/MoneyforNothingAgile2008.pdf
 
