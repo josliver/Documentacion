@@ -10,13 +10,31 @@ stay
 * Natusha
     * Ven a  mi
     * Dime si tu no me quieres
-* Roberto Antonio 
-* Miguel Moly : bella
+    * Tu la tienes que pagar
+* Roberto Antonio
+    Se va a dar cuenta
+    Noches de fantasia
+    Marejada
+* Miguel Moly
+    La morena
+    dulcemente bella
 * Los Melodicos
+    Mi cocha pechocha
+    guitarra española
+    diavolo
 * Diveana
+    Noches de media luna
+    tus ojos
+    me falta todo
 * Lisa M
-* Sergio Perez
+    Tu pum pum
+* Rubby Perez
+    Cuando estes con el
 * Wilfrido Vargas
+    El jardinero
+    volvere
+    el loco y la luna
+    el hombre divertido
 
 Sopa de Caracol
 San martin
@@ -24,15 +42,39 @@ San martin
 ##Merengues Dociminicanos
 
 * Hermanos rosario
+    La dueña del swing
 * Fulanitos
 
 
 #Merengues Clásicos
 
 * Eddie Herrera
+    A dormir juntitos
+    el vicio de tus labios
+    ajena
 * Elvis Crespo
+    Suavemente
+    pintame
 * Calle Ciega
+    Solo te quiero amar
+    mi cachorrita
+    dejame entrar en tu corazon
+    con la punta el pie
+    
 * Juan Luis Guerra
+    La bilirrubina
+    a pedir su mano
+    Ojala que llueva cafe
+    visa para un sueño
+    la guagua
+    como yo
+    Soldado
+    woman del callao
+    rosalia
+    san pedro de macoris
+    si tu te vas
+
+Chichi Peralta - Procura
 
 #Bailables
 * Guaco
@@ -41,9 +83,29 @@ San martin
     BAJA
     DIMELO TU
     ERES MAS
+    quiero decirte
+    
 * Proyecto 1
+    Materialista
+    24 horas al dia
+    
 * Chino y Nacho
+    El Poeta
+    Andas en mi cabeza
+    me voy enamorando
+    mi niña bonita
+    chica ideal
+    
 * Ilegales
+    Chucucha
+    fiesta caliente
+    ayantame
+    el taqui taqui
+    Pasarla bien
+    
+* El potro alvarez
+    Una vaina loca
+    Bla bla bla lo
 
 ##Salsa
 * DLG
@@ -55,6 +117,8 @@ San martin
     LLORARAS
 * Mark Anthony
     CELOS Y ENVIDIA
+    Flor palida
+    
 * Celia Cruz
     LA NEGRA TIENE TUMBAO
     Carnaval
@@ -175,6 +239,12 @@ JUAN MAGAN FT JOY MONTANA -- LOVE Y pARTY
 
 #Gaitas
 
+    Ricardo Aguirre - La Grey Zuliana | https://www.youtube.com/watch?v=IGbSZCGdStU
+    Gran Coquivacoa - Sin rencor | https://www.youtube.com/watch?v=X1yHql8YUiY
+    mi ranchito
+    Argenis Carrullo - Quien como yo  | https://www.youtube.com/watch?v=qcoPVwGB3sk
+    VHG - La voy a tocar a pie | https://www.youtube.com/watch?v=q75TZOhAU_k
+    Maracibo 15 - Amparito  | https://www.youtube.com/watch?v=O7x8aW1PCeU
 
 #TECH
 Avicii
