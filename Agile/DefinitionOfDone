@@ -1,0 +1,39 @@
+A "Definition of Done" is an agreement amongst project teams and engineers about the criteria that must be met in order for a scope of work to be considered complete. By formally defining the meaning of ‘done’ we reduce variability and the likelihood of incomplete or overlooked work. It provides us with an objective and unambiguously way to measure progress (‘done’ or ‘not done’) and increases project quality and transparency.
+There are three levels of granularity where we believe it is important to have a shared understanding 'done' : User Stories, Sprints, and Releases.
+
+
+User Story
+Acceptance criteria for the story is met
+Code is committed to source control
+Code is formatted based on the team's style guide
+Unit tests exist and are automated
+Integration tests exist and are automated
+At least 2 peer code reviews pre-merge
+Automated QA tests (functional tests)
+APIs are documented using swagger
+Code Coverage > 80%
+Sonar SQALE Rating of 'A'
+Security Scan (AppScan) automated and Passes
+
+Sprint
+A sprint review demo is conducted
+The demo in hosted in the QA environment
+The demo is built and deployed using Jenkins
+User Stories are demoed only if they are "Done"
+Stakeholders and peers (AWG) are invited to attend
+Sonar scorecard is reviewed for coverage and quality
+A retrospective is conducted
+The results of the sprint are recorded and public
+The record of architecture decisions is up to date
+
+Release 
+End-to-end testing completed in Stage
+Regression Testing completed
+Scale Testing is completed (Load + Soak) 
+UAT is complete and approved
+Failure / Disaster plan is documented
+Monitoring, Alerts, and Runbook(s) are up to date
+Service registration + dependencies are recorded
+Deployment plan
+Configurations and steps documented
+Rollout and recovery strategy documented
