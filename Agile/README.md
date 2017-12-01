@@ -11,7 +11,7 @@ Prueba de commit
 * [Cómo leer la serie: Comenzando con un equipo Scrum](http://www.lecciones-aprendidas.info/2016/09/como-leer-la-serie-comenzando-con-un.html)
 * [Scrum intro](https://www.scrumalliance.org/community/articles/2016/december/scrum-in-common-language?feed=articles)
 * [Cobrando Agil](https://foro.chileagil.cl/t/facturacion-de-un-proyecto-agil/220)
-
+* [Por qué debemos definir buenas Historias de usuario](https://www.youtube.com/watch?v=cDA3_5982h8)
 
 [1]:http://www.alexandercowan.com/best-agile-user-story/
 
