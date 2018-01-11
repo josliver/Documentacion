@@ -12,6 +12,7 @@ Prueba de commit
 * [Scrum intro](https://www.scrumalliance.org/community/articles/2016/december/scrum-in-common-language?feed=articles)
 * [Cobrando Agil](https://foro.chileagil.cl/t/facturacion-de-un-proyecto-agil/220)
 * [Por qué debemos definir buenas Historias de usuario](https://www.youtube.com/watch?v=cDA3_5982h8)
+* [Templates para trabajar con product owners](https://www.romanpichler.com/tools/sprint-goal-template/)
 
 [1]:http://www.alexandercowan.com/best-agile-user-story/
 
