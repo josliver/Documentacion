@@ -15,18 +15,15 @@ Prueba de commit
 * [Templates para trabajar con product owners](https://www.romanpichler.com/tools/sprint-goal-template/)
 * [Story point stimations](https://info.thoughtworks.com/rs/thoughtworks2/images/twebook-perspectives-estimation_1.pdf)
 * [Checklist para Scrum MASTERS][2]
+* [¿Cómo explicar Kanban?][2]
 
 * https://cafegifo.wordpress.com
 
 [1]:http://www.alexandercowan.com/best-agile-user-story/
 [2]:http://scrummasterchecklist.org/pdf/scrummaster_checklist_spanish.pdf
-
-
+[3]:http://www.caminoagil.com/2016/05/27/kanban-cakes-como-explicar-kanban-de-forma-practica/
 
 
 https://www.scrumalliance.org/community/articles/2016/december/agile-myths-debunked?feed=articles
 https://www.scrumalliance.org/community/articles/2016/november/an-agile-practitioner-s-definition-of-done?feed=articles
 
-cloe:
-
-wallmart
